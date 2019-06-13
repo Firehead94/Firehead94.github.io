@@ -1059,6 +1059,7 @@ svg.linkButtonIcon-Mlm5d6 {
 }
 
 /* status picker */
+/*
 .popout.popout-top, .popout.popout-top-right {
     margin-top: 0px;
 }
@@ -1101,7 +1102,7 @@ svg.linkButtonIcon-Mlm5d6 {
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: 50%;
-}
+}*/
 
 /* add role popout */
 .popout.popout-bottom-left header:before,
