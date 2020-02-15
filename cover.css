@@ -106,3 +106,45 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+/*
+ * Socials
+ */
+
+ .socials a.twitter {
+   background-image: url("images/company-logos/twitter_white.png");
+   background-size: 50px;
+ }
+
+ .socials a.github {
+  background-image: url("images/company-logos/github_white.png");
+  background-size: 50px;
+ }
+
+ .socials a.linkedin {
+  background-image: url("images/company-logos/linkedin_white.png");
+  background-size: 50px;
+ }
+
+ .socials a.discord {
+  background-image: url("images/company-logos/discord_white.png");
+  background-size: 50px;
+ }
+
+ .socials a {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  text-indent: -999em;
+  transform: scale(0.8, 0.8) translate(-8px, 10px);
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  border: 0;
+  transition: all .2s ease-in-out;
+  margin-left: 1em;
+}
+
+a {
+  text-decoration: none;
+}
