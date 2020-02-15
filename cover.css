@@ -39,7 +39,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width:80em;
 }
 
 
@@ -52,6 +52,8 @@ body {
 
 .masthead-brand {
   margin-bottom: 0;
+  font-family: Orator Std; Tw Cen MT;
+  font-size: xxx-large;
 }
 
 .nav-masthead .nav-link {
